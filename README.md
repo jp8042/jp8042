@@ -1,5 +1,19 @@
 # 💫 About Me:
-🔭 I’m currently working on building a social media platform using technologies such as Kafka and the Lens Protocol. I am also exploring the use of Solidity and other frameworks in the web3 ecosystem.<br>👯 I’m looking to collaborate on projects that involve web development and blockchain technology, particularly those that have the potential to create positive impact and solve real-world problems.<br>🤝 I’m looking for help with finding job opportunities and working on exciting projects that allow me to utilize my skills and knowledge.<br>🌱 I’m currently learning Solidity, Golang, and other frameworks in the web3 ecosystem, and I am always seeking ways to improve my skills and expand my knowledge.<br>💬 Ask me about my journey in the tech industry, my experiences with object-oriented design, or my thoughts on solving complex problems with code. I am also happy to discuss my experience with Node.js and my passion for web development.<br>⚡ Fun fact: Despite having more than 100 semi-completed projects, I have never had the motivation to push them to GitHub due to imposter syndrome. However, I am working on overcoming this obstacle and am excited to share my work with others in the future.
+🔭 I'm currently working as an SDE 2 at LambdaSCS, where I have been instrumental in developing a SaaS platform that provides real-time visibility and data-driven insights for supply chain optimization. I am also exploring the use of blockchain technology and machine learning to enhance the platform's capabilities.<br>
+👯 I'm looking to collaborate on projects that involve web development, blockchain technology, and machine learning. I am particularly interested in projects that have the potential to create positive impact and solve real-world problems.<br>
+🤝 I'm looking for opportunities to grow professionally and work on exciting projects that allow me to utilize my skills and knowledge in JavaScript, Node.js, Express.js, MySQL, Apache Kafka, MongoDB, Python, Flask, and React.js.<br>
+🌱 I'm currently expanding my skill set by diving into the world of Generative AI and Large Language Models (LLMs). I am exploring frameworks like OpenAI's GPT, Google's BERT, and Anthropic's Claude to understand their capabilities and potential applications in various domains. I am always eager to learn about the latest advancements in AI and how they can be leveraged to create innovative solutions.<br>
+💬 Ask me about my experience in building scalable and efficient web applications, my passion for exploring the intersection of blockchain technology and AI, or my thoughts on leveraging machine learning and language models like Claude to drive business value. I am also happy to discuss my freelance projects, my contributions to open-source communities, and my journey in the ever-evolving landscape of technology.<br>
+⚡ Fun fact: I once spent an entire weekend building a web app that could generate puns based on user input, only to realize that my friends were far better at coming up with witty one-liners than my carefully crafted algorithms. It was a humbling experience, but it taught me the importance of balancing technical prowess with the irreplaceable value of human creativity and humor.
+
+Citations:
+[1] https://www.npr.org/sections/ed/2014/05/20/314264067/the-best-commencement-speech-ever
+[2] https://www.currentaffairs.org/2019/03/how-to-write-a-political-puff-piece
+[3] https://andrewblackman.net/2012/05/the-sense-of-an-ending-explained/
+[4] https://www.reddit.com/r/3d6/comments/tqe5hx/need_a_backstory_ill_write_one_need_idea_of/
+[5] https://www.vcestudyguides.com/blog/to-kill-a-mockingbird
+[6] https://whatever.scalzi.com/2010/06/21/the-self-awareness-of-incompetence-or-lack-thereof/
+[7] https://www.ldspma.org/category/articles/faith-mindset/
 
 
 ## 🌐 Socials:

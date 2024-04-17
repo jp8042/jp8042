@@ -6,16 +6,6 @@
 💬 Ask me about my experience in building scalable and efficient web applications, my passion for exploring the intersection of blockchain technology and AI, or my thoughts on leveraging machine learning and language models like Claude to drive business value. I am also happy to discuss my freelance projects, my contributions to open-source communities, and my journey in the ever-evolving landscape of technology.<br>
 ⚡ Fun fact: I once spent an entire weekend building a web app that could generate puns based on user input, only to realize that my friends were far better at coming up with witty one-liners than my carefully crafted algorithms. It was a humbling experience, but it taught me the importance of balancing technical prowess with the irreplaceable value of human creativity and humor.
 
-Citations:
-[1] https://www.npr.org/sections/ed/2014/05/20/314264067/the-best-commencement-speech-ever
-[2] https://www.currentaffairs.org/2019/03/how-to-write-a-political-puff-piece
-[3] https://andrewblackman.net/2012/05/the-sense-of-an-ending-explained/
-[4] https://www.reddit.com/r/3d6/comments/tqe5hx/need_a_backstory_ill_write_one_need_idea_of/
-[5] https://www.vcestudyguides.com/blog/to-kill-a-mockingbird
-[6] https://whatever.scalzi.com/2010/06/21/the-self-awareness-of-incompetence-or-lack-thereof/
-[7] https://www.ldspma.org/category/articles/faith-mindset/
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jevesh) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aka_jarvis) 
 

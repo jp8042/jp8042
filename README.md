@@ -1,31 +1,53 @@
-# 👋 Hi there! I'm Jevesh.
+# Hey, I'm Jevesh 👋
 
-## 💼 About Me
-- SDE 2 at LambdaSCS, working on a SaaS platform for supply chain optimization
-- Exploring blockchain technology and machine learning to enhance the platform
-- Expanding my skill set by diving into Generative AI and Large Language Models (LLMs)
-- Happy to discuss my experience in building scalable web applications and leveraging AI for business value
+**Senior Software Engineer @ Rizzle** — building voice-over and TTS systems that work at scale.
 
-## 🚀 Skills
-- Languages: JavaScript, Node.js, Python, C++, Go, Solidity
-- Frameworks: Express.js, Flask, React.js
-- Databases: MySQL, MongoDB, PostgreSQL, Redis, Neo4j
-- Tools: Git, Docker, Kubernetes, Jira, Postman
+---
 
-## 🌟 Interests
-- Collaborating on projects involving web development, blockchain, and machine learning
-- Creating positive impact and solving real-world problems
-- Learning about the latest advancements in AI and their potential applications
+### What I'm working on
 
-## 📫 Let's Connect!
-- [LinkedIn](https://linkedin.com/in/jevesh)
-- [Twitter](https://twitter.com/aka_jarvis)
-- [Buy Me a Coffee](https://buymeacoffee.com/jevesh)
+🎙️ **Currently:** Architecting multi-provider voice aggregation systems, TTS engines, and audio pipelines — making synthetic speech sound natural and ship reliably.
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jp8042&layout=compact&theme=gradient)
+📦 **Previously:** Built logistics analytics and route optimization systems at LambdaSCS (Gartner Featured 2024) — the supply chain side of making things move efficiently.
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=jp8042&theme=gradient&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?theme=gradient)
+### Tech I work with
+
+```
+Languages    → JavaScript (ES6+), Python, SQL
+Backend      → Node.js, Express, Kafka, Redis
+Cloud        → AWS, GCP, Azure, Docker
+Data         → MySQL, MongoDB, Elasticsearch
+AI/ML        → PyTorch, TensorFlow, ElevenLabs, OpenAI, Claude
+```
+
+*Infrastructure that scales, pipelines that don't break at 3 AM.*
+
+---
+
+### The short version
+
+- 4+ years building backend systems — from healthcare to supply chain to voice tech
+- I like problems where the solution isn't obvious and the stakes are real
+- Currently deep in the weeds of making TTS sound human
+
+---
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jevesh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aka_jarvis)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jevesh)
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+<br>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jp8042&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jp8042&theme=tokyonight)
+
+</details>

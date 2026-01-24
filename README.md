@@ -28,7 +28,7 @@ AI/ML        → PyTorch, TensorFlow, ElevenLabs, OpenAI, Claude
 
 ### The short version
 
-- 4+ years building backend systems — from healthcare to supply chain to voice tech
+- 5+ years building backend systems — from healthcare to supply chain to voice tech
 - I like problems where the solution isn't obvious and the stakes are real
 - Currently deep in the weeds of making TTS sound human
 
